@@ -1,14 +1,4 @@
-# Blood-Bank-Mern-Stack-Project
-complete mern stack blood bank project source code please check commits
-
-## project playlist 🎞
-https://youtube.com/playlist?list=PLuHGmgpyHfRzs3VmqXkguFuNknQFbT0db
-
-# Thank you for watching TechinfoYT youtube channel
-😎 Please Like Share and Subscribe ! 🙏
-
-# Having Any Isuse Or Query DM On Instagram 🤷‍♀️
-https://www.instagram.com/technical_update/
-
+# LIFE SAVERS Blood-Bank-Mern-Stack-Project
+The MERN Stack Blood Bank Project is a web application that leverages MongoDB, Express.js, React.js, and Node.js to facilitate blood donation and management. It includes features such as donor registration, blood requests, inventory management, user authentication, and search functionality. The project aims to provide a seamless user experience and efficient blood inventory management for blood banks and donors.
 
 
